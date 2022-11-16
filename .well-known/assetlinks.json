@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.randeem.crowdcityonline",
+               "sha256_cert_fingerprints": ["4A:82:96:C8:BF:87:39:E9:52:FC:D3:62:50:57:66:29:F6:B6:E4:D5:6D:05:F0:F0:5B:15:99:65:81:3C:3D:BE"] }
+}]

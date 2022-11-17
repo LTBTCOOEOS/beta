@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "K83KJKLJ2N.com.randeem.crowdcityonline",
-                "paths": [ "/joingame?/*"]
+                "paths": [ "/joingame?/"]
             }
         ]
     }

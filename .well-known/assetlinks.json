@@ -1,5 +1,11 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.randeem.crowdcityonline",
-               "sha256_cert_fingerprints": ["4A:82:96:C8:BF:87:39:E9:52:FC:D3:62:50:57:66:29:F6:B6:E4:D5:6D:05:F0:F0:5B:15:99:65:81:3C:3D:BE"] }
-}]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ltb.crowdcityonline",
+      "sha256_cert_fingerprints":
+        ["DC:D7:B6:3E:BE:76:B4:B8:ED:4F:40:C0:F8:72:1A:04:9F:10:1C:5D:73:0F:E5:E2:8E:25:0F:DB:42:F8:0E:4C"]
+    }
+  }
+]
